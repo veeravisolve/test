@@ -7,4 +7,29 @@ this is test
 		<div class="col-md-12">
 			<h3>Patient Outstanding</h3>
 			<div class="form-group">
+			
+			
+			
+			
+			
+			<br />
+			<div class="row">
+				<div class="col-md-12">
+					<table class="table table-bordered" id="report_table">
+						<thead>
+							<tr>
+								<th>Patient Name</th>
+								<th>Date of Birth</th>
+								<th>SSN</th>
+								<th>Balance</th>
+								<th>Actions</th>
+								<th><a href="#" id="select_all_trigger">Select all</a></th>
+							</tr>
+						</thead>
+			
+			
+			
+			
+			
+			
 Nam iaculis nisl nec sapien tristique sagittis. Duis nec aliquam nunc, sit amet mattis lorem. Curabitur sed est malesuada, malesuada elit a, sagittis enim. Nullam in nulla vel est sodales suscipit. Mauris euismod dui magna, in egestas ipsum commodo at. Nunc eget lorem eros. Etiam tincidunt eros libero. 
